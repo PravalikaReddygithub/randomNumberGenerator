@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  background-color: #ffffff;
+  height: 500px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  color: #0b69ff;
+}
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+.paragraph {
+  color: #0b69ff;
+  font-weight: bold;
+  font-size: 30px;
+}
